@@ -1,0 +1,105 @@
+﻿ip_address,user_id,date,time_stamp,URL_Details ,Viewed_sport,CountryCode,CountryName,userid_ CC
+250.93.162.247,1,1.1.2022,15:12:25,GET /Chess.html 188,Chess,ET,Ethiopia,1 ET 
+239.115.146.139,2,25.2.2022,4:38:37,GET /Basketball.html 122 ,Basketball,PH,Philippines,2 PH 
+194.146.174.185,3,3.4.2022,14:12:37,GET /Football.html 200,Football,RU,Russia,3 RU
+49.146.191.160,4,15.3.2022,4:14:19,GET /Volleyball.html 342,Volleyball,FR,France,4 FR
+125.176.73.161,5,4.3.2022,11:23:47,GET /Martial art.html 900,Martial art,CN,China,5 CN
+85.150.180.36,6,13.4.2022,20:59:11,GET /Tennis.html 564,Tennis,NZ,New Zealand,6 NZ
+38.34.4.67,7,9.3.2022,5:49:42,GET /Table tennis.html 423,Table tennis,ID,Indonesia,7 ID
+3.252.180.160,7,20.3.2022,4:04:07,GET /Athletics.html 670,Athletics,ID,Indonesia,7 ID
+133.157.97.67,8,30.1.2022,1:58:14,GET /Crossfit Circle Training.html 812,Crossfit Circle Training,CL,Chile,8 CL
+99.244.139.32,7,20.3.2022,0:34:09,GET /Rowing.html 734,Rowing,ID,Indonesia, 7 ID
+80.125.174.207,9,23.4.2022,15:32:35,GET /Softball.html 001,Softball,US,United States,9 US
+177.77.221.188,10,7.6.2022,17:30:18,GET /Road cycling.html 111,Road cycling,IQ,Iraq,10 IQ
+47.104.120.99,11,24.6.2022,22:03:22,GET /Archery.html 222,Archery,PL,Poland,11 PL
+157.65.139.98,7,12.4.2022,9:49:05,GET /Badminton.html 333,Badminton,ID,Indonesia,7 ID
+152.175.69.15,5,26.6.2022,6:46:01,GET /golf.html 444,golf,CN,China,5 CN
+16.19.199.75,12,17.4.2022,2:38:00,GET /Canoe.html 555,Canoe,CA,Canada,12 CA
+172.205.79.248,13,28.4.2022,15:38:17,GET /Taekwondo.html 686,Taekwondo,PT,Portugal,13 PT
+61.244.212.89,5,15.6.2022,1:56:41,GET /Fencing.html 7787,Fencing,CN,China,5 CN
+6.215.228.214,11,4.3.2022,5:12:43,GET /Hockey.html 909,Hockey,PL,Poland,11 PL
+99.53.150.213,5,26.6.2022,1:33:21,GET /Judo.html 010,Judo,CN,China,5 CN
+139.63.73.10,6,11.4.2022,6:52:39,GET /Chess.html 188,Chess,NZ,New Zealand,6 NZ
+24.175.252.246,11,9.3.2022,4:33:51,GET /Basketball.html 122 ,Basketball,PL,Poland,11 PL
+182.83.214.21,14,6.2.2022,11:06:56,GET /Football.html 200,Football,AL,Albania,14 AL
+110.17.213.228,15,6.3.2022,15:30:54,GET /Volleyball.html 342,Volleyball,ML,Mali,15 ML
+162.84.241.230,3,30.1.2022,11:20:41,GET /Martial art.html 900,Martial art,RU,Russia,3 RU
+228.194.224.193,5,7.3.2022,20:03:03,GET /Martial art.html 900,Martial art,CN,China,5 CN
+226.64.249.75,4,10.3.2022,8:41:15,GET /Volleyball.html 342,Volleyball,FR,France,4 FR
+140.80.30.187,4,13.6.2022,7:53:37,GET /Football.html 200,Football,FR,France,4FR
+179.12.0.48,16,29.3.2022,6:50:34,GET /Basketball.html 122 ,Basketball,ZA,South Africa,16 ZA
+24.144.46.224,17,5.4.2022,4:28:30,GET /Chess.html 188,Chess,YE,Yemen,17 YE
+182.206.20.30,13,9.5.2022,23:08:36,GET /Tennis.html 564,Tennis,PT,Portugal,13 PT
+190.129.236.46,18,22.1.2022,10:28:23,GET /Table tennis.html 423,Table tennis,NO,Norway,18 NO
+121.173.74.64,19,15.1.2022,15:46:34,GET /Athletics.html 670,Athletics,VN,Vietnam,19 VN
+112.170.248.187,20,20.3.2022,17:01:46,GET /Crossfit Circle Training.html 812,Crossfit Circle Training,MY,Malaysia,20 MY
+0.12.103.79,5,31.1.2022,4:42:26,GET /Rowing.html 734,Rowing,CN,China,5 CN
+178.208.234.69,5,7.5.2022,21:22:57,GET /Softball.html 001,Softball,CN,China,5 CN
+117.129.153.31,5,14.2.2022,6:38:00,GET /Road cycling.html 111,Road cycling,CN,China,5 CN
+210.140.78.90,21,6.2.2022,15:21:20,GET /Archery.html 222,Archery,GR,Greece,21 GR
+205.99.72.34,22,18.1.2022,9:41:07,GET /Badminton.html 333,Badminton,TH,Thailand,22 TH
+160.140.186.109,7,22.6.2022,23:22:11,GET /golf.html 444,golf,ID,Indonesia,7 ID
+197.37.164.51,5,15.6.2022,2:39:39,GET /Canoe.html 555,Canoe,CN,China,5 CN
+3.45.239.91,23,8.5.2022,3:51:43,GET /Canoe.html 555,Canoe,CZ,Czech Republic,23 CZ
+248.37.60.198,7,24.1.2022,13:55:52,GET /golf.html 444,golf,ID,Indonesia,7 ID
+239.18.58.220,24,6.4.2022,14:18:33,GET /Badminton.html 333,Badminton,EC,Ecuador,24 EC
+41.7.219.73,25,28.2.2022,23:44:30,GET /Archery.html 222,Archery,PF,French Polynesia,25 PF
+35.120.226.12,26,19.5.2022,14:05:24,GET /Road cycling.html 111,Road cycling,IR,Iran,26 IR
+24.12.15.132,28,15.5.2022,18:37:13,GET /Softball.html 001,Softball,SE,Sweden,28 SE
+76.28.78.235,5,3.5.2022,8:43:58,GET /Taekwondo.html 686,Taekwondo,CN,China,5 CN
+119.55.25.205,5,9.6.2022,16:18:54,GET /Fencing.html 7787,Fencing,CN,China,5 CN
+120.133.19.159,27,15.3.2022,4:58:15,GET /Hockey.html 909,Hockey,PK,Pakistan,27 PK
+16.64.58.8,4,22.6.2022,7:04:47,GET /Judo.html 010,Judo,FR,France,4 FR
+9.223.204.79,3,26.4.2022,2:26:03,GET /Taekwondo.html 686,Taekwondo,RU,Russia,3 RU
+108.110.61.252,5,8.5.2022,3:17:15,GET /Fencing.html 7787,Fencing,CN,China,5 CN
+3.21.237.125,13,12.2.2022,3:36:07,GET /Hockey.html 909,Hockey,PT,Portugal,13 PT
+43.167.78.78,7,10.6.2022,18:07:24,GET /Judo.html 010,Judo,ID,Indonesia,7 ID
+132.178.243.190,7,8.1.2022,23:05:57,GET /Judo.html 010,Judo,ID,Indonesia,7 ID
+96.223.90.43,29,23.5.2022,13:01:13,GET /Hockey.html 909,Hockey,SD,Sudan,29 SD
+79.102.165.105,28,5.2.2022,11:43:49,GET /Fencing.html 7787,Fencing,SE,Sweden,28 SE
+33.89.247.2,5,16.4.2022,8:33:17,GET /Taekwondo.html 686,Taekwondo,CN,China,5 CN
+116.196.205.197,9,25.4.2022,18:37:59,GET /Tennis.html 564,Tennis,US,United States,9 US
+79.201.96.184,5,8.1.2022,14:05:52,GET /Table tennis.html 423,Table tennis,CN,China,5 CN
+13.176.28.240,5,31.3.2022,2:27:02,GET /Athletics.html 670,Athletics,CN,China,5 CN
+150.97.188.63,3,31.5.2022,7:52:03,GET /Crossfit Circle Training.html 812,Crossfit Circle Training,RU,Russia,3 RU
+101.93.99.98,3,30.5.2022,7:30:50,GET /Rowing.html 734,Rowing,RU,Russia,3 RU
+71.81.24.92,23,27.6.2022,0:19:14,GET /Softball.html 001,Softball,CZ,Czech Republic,23 CZ
+211.219.135.229,9,24.3.2022,1:25:10,GET /Chess.html 188,Chess,US,United States,9 US
+20.148.200.238,7,1.2.2022,18:19:27,GET /Basketball.html 122 ,Basketball,ID,Indonesia,7 ID 
+132.233.185.12,30,1.2.2022,18:28:14,GET /Football.html 200,Football,CR,Costa Rica,30 CR
+146.112.168.68,39,31.1.2022,18:33:28,GET /Volleyball.html 342,Volleyball,HR,Croatia,39 HR
+123.128.185.49,28,19.1.2022,0:41:59,GET /Martial art.html 900,Martial art,SE,Sweden,28 SE
+239.15.81.102,31,28.6.2022,5:39:03,GET /Taekwondo.html 686,Taekwondo,MA,Morocco,31 MA
+13.148.68.113,18,22.4.2022,22:45:54,GET /Fencing.html 7787,Fencing,NO,Norway,18 NO
+176.219.101.129,3,21.2.2022,1:07:59,GET /Hockey.html 909,Hockey,RU,Russia,3 RU
+104.177.224.107,17,13.3.2022,3:01:40,GET /Hockey.html 909,Hockey,YE,Yemen,17 YE
+58.25.155.132,13,13.4.2022,2:18:55,GET /Fencing.html 7787,Fencing,PT,Portugal,13 PT
+141.254.186.11,32,6.4.2022,15:01:38,GET /Judo.html 010,Judo,CO,Colombia,32 CO
+85.64.53.108,33,14.4.2022,4:11:27,GET /Archery.html 222,Archery,SI,Slovenia,33 SI
+133.54.146.81,2,26.1.2022,23:36:10,GET /Badminton.html 333,Badminton,PH,Philippines,2 PH 
+127.149.186.207,3,23.6.2022,17:02:56,GET /searchsports.php 200,searchsports,RU,Russia,3 RU
+138.207.88.155,34,24.3.2022,7:45:44,GET /images/games.jpg 304,images/games,BY,Belarus,34 BY
+123.225.111.36,35,18.4.2022,10:45:17,GET /Football.html 200,Football,BG,Bulgaria,35 BG
+7.123.33.26,5,27.6.2022,17:21:04,GET /index.html 200,index,CN,China,5 CN
+72.157.144.192,5,9.4.2022,7:48:47,GET /images/games.jpg 304,images/games,CN,China,5 CN
+149.151.83.160,5,22.3.2022,18:11:45,GET /searchsports.php 200,searchsports,CN,China,5 CN
+146.185.146.237,36,2.1.2022,16:51:39,GET /softball.html 001,softball,DO,Dominican Republic,36 DO
+130.196.159.57,5,7.1.2022,9:21:46,GET /index.html 200,index,CN,China,5 CN
+126.77.209.1,32,26.1.2022,18:23:36,GET /searchsports.php 200,searchsports,CO,Colombia, 32 CO
+84.74.238.125,2,25.3.2022,9:50:03,GET /Basketball.html 122 ,Basketball,PH,Philippines,2 PH 
+110.16.220.196,13,9.4.2022,14:01:03,GET /images/games.jpg 304,images/games,PT,Portugal,13 PT
+100.39.84.85,5,26.4.2022,5:25:05,GET /index.html 200,index,CN,China,5 CN
+61.107.80.18,5,31.1.2022,4:49:50,GET /searchsports.php 200,searchsports,CN,China,5 CN
+84.230.245.187,3,9.1.2022,2:09:44,GET /index.html 200,index,RU,Russia,3 RU
+210.80.23.113,37,27.3.2022,6:06:21,GET /Badminton.html 333,Badminton,PG,Papua New Guinea,37 PG
+239.250.185.138,5,25.2.2022,6:09:39,GET /images/games.jpg 304,images/games,CN,China,5 CN
+241.110.173.87,38,24.4.2022,22:09:44,GET /football.html 200,football,BD,Bangladesh,38 BD
+212.138.83.75,3,4.2.2022,13:13:31,GET /index.html 200,index,RU,Russia,3 RU
+67.19.0.109,7,31.3.2022,12:10:28,GET /images/games.jpg 304,images/games,ID,Indonesia,7 ID
+86.93.152.133,7,14.4.2022,18:47:31,GET /searchsports.php 200,searchsports,ID,Indonesia,7 ID
+146.131.79.19,28,16.3.2022,3:45:39,GET /index.html 200,index,SE,Sweden,28 SE
+193.196.168.22,5,22.6.2022,21:11:18,GET /Softball.html 001,Softball,CN,China,5 CN
+ 228.10.0.1,13,,2:49:36,GET /index.html 200,index,PT,Portugal,13 PT
+ 155.55.0.24,3,,3:01:07,GET /images/games.jpg 304,images/games,RU,Russia,3 RU
+ 157.20.30.10,5,,3:54:36,GET /searchsports.php 200,searchsports,CN,China,5 CN
+157.20.30.10 ,7,,4:17:04,GET /football.html 200,football,ID,Indonesia,7 ID
